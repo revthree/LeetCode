@@ -1,3 +1,5 @@
+//time O(m+n)
+//space O(1)
 class Solution {
     public void merge(int[] nums1, int m, int[] nums2, int n) {
         int p = m+n-1;
