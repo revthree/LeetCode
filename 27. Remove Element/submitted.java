@@ -1,5 +1,4 @@
-//time O(n)
-//space O(1)
+
 class Solution {
     public int removeElement(int[] nums, int val) {
         int count=0;
