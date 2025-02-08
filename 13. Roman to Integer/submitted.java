@@ -1,5 +1,5 @@
 //time O(n)
-// space O(n)
+// space O(n) uisng a hashmap
 class Solution {
     public int romanToInt(String s) {
         HashMap<Character, Integer> hm=new HashMap<Character, Integer>();
