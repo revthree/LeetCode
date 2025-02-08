@@ -1,4 +1,6 @@
 // solved using Moor'es voting algorithm
+//time O(n) because only one for loop
+//space O(1) not using any extra space
 class Solution {
     public int majorityElement(int[] nums) {
         int candidate=0;   
